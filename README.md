@@ -26,6 +26,12 @@ It is straightforward, just a plain npm command.
 npm install electron-prebuilt -g
 ```
 
+and run:
+
+``` bash
+electron .
+```
+
 
 
 just follow [electron's quick start](https://github.com/atom/electron/blob/master/docs/tutorial/quick-start.md) and you will get something running in 10min at the most.
